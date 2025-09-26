@@ -20,10 +20,8 @@ The notebook implements and explores the **Harsha Equation**, a proposed canonic
 # Summary: Harsha Equation and Simulation Connections
 
 ## Harsha Equation
-$$
-\frac{d\rho}{dt} = -i [H_{\mathrm{bio}}(t), \rho] 
-+ \sum_k \gamma_k(t) \Big( L_k \rho L_k^\dagger - \frac{1}{2} \{L_k^\dagger L_k, \rho\} \Big)
-$$
+
+![Master equation](http://he.axqte.com/he-qb.jpeg)
 
 ## Term Mapping
 | Term | Meaning | Where it appears in my code / plots |
