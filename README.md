@@ -21,7 +21,7 @@ The notebook implements and explores the **Harsha Equation**, a proposed canonic
 
 ## Harsha Equation
 
-![Master equation](http://he.axqte.com/he-qb.jpeg)
+![Master equation](http://he.axqte.com/he.jpeg)
 
 ## Term Mapping
 | Term | Meaning | Where it appears in my code / plots |
